@@ -1,0 +1,6 @@
+*.pyc
+.vscode/
+bin/
+include/
+lib/
+.Python
