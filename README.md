@@ -1,6 +1,8 @@
 # jcb_bot
 Convert JCB currency through telegram bot
 
+[Demo](https://t.me/jcb_convert_bot)
+
 Setup dependency
 ----
 ```
